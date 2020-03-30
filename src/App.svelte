@@ -62,7 +62,7 @@
   $: logN              = Math.log(7e6)
   $: N                 = Math.exp(logN)
   $: I0                = 1
-  $: R0                = 2.2
+  $: R0                = 2.0
   $: D_incbation       = 5.2       
   $: D_infectious      = 2.9 
   $: D_recovery_mild   = (14 - 2.9)  
